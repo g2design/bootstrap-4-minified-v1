@@ -1,11 +1,11 @@
 {
   "name": "bootstrap-4-min-g2",
-  "homepage": "https://github.com/g2design/bootstrap-4-minified-v1",
+  "homepage": "https://github.com/g2design/bootstrap-4-v1",
   "authors": [
     "G2Design"
   ],
   "description": "Minified version of Bootstrap 4.",
-  "main": "bootstrap.min.css",
+  "main": "bootstrap.css",
   "license": "MIT",
   "ignore": [
     "**/.*",
@@ -13,5 +13,5 @@
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
 }
